@@ -11,7 +11,7 @@ public class PruebaDeMemoria {
 			
 			int sumaa = suma + 2;
 			
-			System.out.println(suma)888888888888
+			System.out.println(suma);
 	}
 
 }
